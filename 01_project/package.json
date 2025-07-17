@@ -1,0 +1,22 @@
+{
+  "name": "project_01",
+  "version": "1.0.0",
+  "description": "this is revision of Nodejs with some deep knowledge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByAbhishekCode/Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByAbhishekCode/Node.js/issues"
+  },
+  "homepage": "https://github.com/ByAbhishekCode/Node.js#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
