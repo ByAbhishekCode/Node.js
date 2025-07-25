@@ -2,8 +2,8 @@
   {
     "id": 1,
     "first_name": "Maddi",
-    "last_name": "Smogur",
-    "email": "msmogur0@narod.ru",
+    "last_name": "Kumar Shakya",
+    "email": "abhi1001@example.com",
     "gender": "Female",
     "job_title": "Data Coordinator"
   },
@@ -8014,5 +8014,13 @@
     "gender": "male",
     "job_title": "Electrical Eng.",
     "id": 1002
+  },
+  {
+    "first_name": "Akash",
+    "last_name": "Kushwaha",
+    "email": "akash.tester@gmail.com",
+    "gender": "male",
+    "job_title": "Tester Eng.",
+    "id": 1003
   }
 ]
