@@ -8001,34 +8001,18 @@
   },
   {
     "first_name": "Abhishek",
-    "last_name": "Kumar",
-    "email": "abhishek.dev@gmail.com",
+    "last_name": "Kumar Shakya",
+    "email": "abhi1001@example.com",
     "gender": "male",
     "job_title": "Software Dev",
     "id": 1001
   },
   {
-    "first_name": "Abhishek",
-    "last_name": "Kumar",
-    "email": "abhishek.dev@gmail.com",
+    "first_name": "Saurabh",
+    "last_name": "Singh",
+    "email": "saurabh.elec@gmail.com",
     "gender": "male",
-    "job_title": "Software Dev",
+    "job_title": "Electrical Eng.",
     "id": 1002
-  },
-  {
-    "first_name": "Abhishek",
-    "last_name": "Kumar",
-    "email": "abhishek.dev@gmail.com",
-    "gender": "male",
-    "job_title": "Software Dev",
-    "id": 1003
-  },
-  {
-    "first_name": "Abhishek",
-    "last_name": "Kumar",
-    "email": "abhishek.dev@gmail.com",
-    "gender": "male",
-    "job_title": "Software Dev",
-    "id": 1004
   }
 ]
